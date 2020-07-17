@@ -1,11 +1,21 @@
-# Lab09-Collections
+# Lab09-LINQ
 Code Fellows 401: Lab 09.
 
 ## Introduction
 
-Lab08 - Collections
+Lab09 - LINQ
 
 Authors: Bade Habib
+
+----
+
+## Attributions
+
+Sources used when putting together code.
+
+![JSON to C#](https://json2csharp.com)
+![Newtonsoft.com - Deserializing JSON Data](https://www.newtonsoft.com/json/help/html/SerializingJSON.htm)
+![Newtonsoft.com - Deserializing JSON from file path](https://www.newtonsoft.com/json/help/html/ReadJson.htm)
 
 ----
 
@@ -32,13 +42,14 @@ Then select and open ```Lab09-LINQ.sln```
 
 ---
 ### Visuals
-#### Example: Viewing All Books in Library
-![Example Program - View All Books](./assets/lab08-collections.png)
+#### Question 5
+![Example Program - Question 5](./Lab09-LINQ/assets/visual.png)
 
 ---
 ### Change Log
 - Initial commit
-- Added JSON Serialization
+- Added JSON Serialization and JSON data-related classes
 - Added Question 1 and Question 2
 - Added Question 3 and Question 4
 - Added Question 5
+- Added visual and updated README
