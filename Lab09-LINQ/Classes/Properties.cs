@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Lab09_LINQ.Classes
 {
+    /// <summary>
+    /// Class for storing properties object of data.json
+    /// </summary>
     internal class Properties
     {
         public string zip { get; set; }
